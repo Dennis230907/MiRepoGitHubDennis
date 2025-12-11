@@ -1,0 +1,5 @@
+Asignaturas:
+-Programacion
+-Sistemas informaticos
+-Base de datos
+-Entornos
